@@ -1,0 +1,13 @@
+# install zsh
+sudo apt update && sudo apt install zsh
+
+# To make zsh your default shell, run the following command:
+sudo usermod -s /usr/bin/zsh [YOURUSER]
+
+# install zsh syntax highlighting
+sudo apt install zsh-syntax-highlighting
+
+# install zsh syntax autosuggestions
+sudo apt install zsh-autosuggestions
+
+
